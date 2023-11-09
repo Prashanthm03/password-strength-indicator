@@ -1,2 +1,2 @@
 # password-strength-indicator
-I use HTM , CSS and JAVASCRIPT
+I used HTML , CSS and JAVASCRIPT
